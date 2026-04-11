@@ -1,77 +1,66 @@
-<!-- 🔥 PROFILE BANNER -->
+<!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Musabbir%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Musabbir%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- 👀 VISITOR COUNT -->
+<!-- 👀 VISITOR COUNT + SOCIAL -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musabbirrahman&label=Profile%20views&color=0e75b6&style=flat" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=musabbirrahman&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/musabbirrahman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Musabbir%20Rahman-blue?style=flat&logo=linkedin" />
+  </a>
 </p>
 
 <!-- ⌨️ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Future+Software+Engineer;Building+My+Dream+Startup🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Specialist;Future+Full+Stack+Engineer;Building+My+Startup🚀;Consistent+Learner+Everyday"/>
 </p>
 
 ---
 
 # 👋 Hi, I'm Musabbir Rahman  
 
-💻 Frontend Developer | 🚀 Future Software Engineer | 🌍 Dreaming Big  
+💻 Frontend Developer | ⚛️ React Enthusiast | 🚀 Future Founder  
 
 ---
 
 ## 🚀 About Me  
 
-- 🎯 Currently learning **Full Stack Web Development**
-- ⚛️ Working with **React, Tailwind CSS, JavaScript**
-- 🧠 Passionate about **building real-world projects**
-- 📈 100+ GitHub commits and growing daily  
-- 🌏 Goal: Build impactful tech & travel the world  
+- 🎯 Focused on becoming a **Full Stack Developer**  
+- ⚛️ Building projects with **React, Tailwind CSS & JavaScript**  
+- 🧠 Strong believer in **learning by building**  
+- 📈 Consistent growth with daily coding & GitHub activity  
+- 🌍 Vision: Build tech that impacts millions  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Project  
+## 🧩 Featured Project  
 
-### 🔹 React Fetch Data (Custom Hooks)
-📌 A React project using custom hooks to fetch and manage API data  
+### 🔹 React Fetch Data (Custom Hooks)  
+📌 A clean implementation of reusable custom hooks for API handling in React  
 
 🔗 https://github.com/musabbirrahman/react-fetchData-using-customHooks  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musabbirrahman&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabbirrahman&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=musabbirrahman&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabbirrahman&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats  
+## 🔥 Contribution Streak  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=musabbirrahman&theme=tokyonight" />
@@ -79,48 +68,51 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musabbirrahman&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=musabbirrahman&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🎯 Current Focus  
 
-- ⚛️ Advanced React (Hooks, State Management)  
-- 🌐 API Integration  
-- 🧠 Problem Solving  
-- 🏗️ Building Scalable Projects  
+- ⚛️ Advanced React (Custom Hooks, Performance)  
+- 🌐 API Integration & Data Handling  
+- 🧠 Problem Solving & Logic Building  
+- 🏗️ Real-world Projects  
 
 ---
 
-## 🎯 Future Goals  
+## 🌍 Future Vision  
 
-- 🚀 Become a Full Stack Developer  
-- 💼 Start a Tech Startup  
-- 🌍 Work & travel globally  
+- 🚀 Launch a Tech Startup  
+- 💼 Become a Skilled Software Engineer  
+- 🌏 Work globally & explore the world  
 
 ---
 
-## 📫 Connect With Me  
+## 🤝 Connect With Me  
 
-<p>
+<p align="center">
   <a href="https://github.com/musabbirrahman">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/musabbirrahman/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Personal Motto  
 
-> I believe consistency beats talent 🚀  
+> “Consistency beats talent when talent doesn’t stay consistent.” 🚀  
 
 ---
 
-<!-- 💡 FOOTER WAVE -->
+<!-- 🔥 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer"/>
 </p>
