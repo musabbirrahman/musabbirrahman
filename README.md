@@ -1,118 +1,80 @@
-<!-- 🔥 HERO BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Musabbir%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+## 👋 Hi, I'm Musabbir Rahman
 
-<!-- 👀 VISITOR COUNT + SOCIAL -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musabbirrahman&label=Profile%20Views&color=0e75b6&style=flat" />
-  <a href="https://www.linkedin.com/in/musabbirrahman/">
-    <img src="https://img.shields.io/badge/LinkedIn-Musabbir%20Rahman-blue?style=flat&logo=linkedin" />
-  </a>
-</p>
-
-<!-- ⌨️ TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Specialist;Future+Full+Stack+Engineer;Building+My+Startup🚀;Consistent+Learner+Everyday"/>
-</p>
+💻 Founder of GolpoNeer (golponeer.com) — a calm home for Bangla & English stories | ⚛️ Aspiring Web Developer | 🚀 Learning Backend
 
 ---
 
-# 👋 Hi, I'm Musabbir Rahman  
+## 🚀 About Me
 
-💻 Frontend Developer | ⚛️ React Enthusiast | 🚀 Future Founder  
-
----
-
-## 🚀 About Me  
-
-- 🎯 Focused on becoming a **Full Stack Developer**  
-- ⚛️ Building projects with **React, Tailwind CSS & JavaScript**  
-- 🧠 Strong believer in **learning by building**  
-- 📈 Consistent growth with daily coding & GitHub activity  
-- 🌍 Vision: Build tech that impacts millions  
+- 🎯 Founder of **GolpoNeer** — a free, bilingual story platform, built with React, Vite & Supabase
+- 📖 37 stories live — source-checked public-domain classics and new writers, published chapter by chapter
+- 🆓 Read free, write free — no locked chapters, no app to install
+- ⚛️ Building with **React, Tailwind CSS & JavaScript**
+- 🧠 Strong believer in **learning by building**
+- 📈 Consistent growth with daily coding & GitHub activity
+- 🌍 Vision: Build tech that impacts millions
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧩 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
+### 🔹 GolpoNeer — গল্পনীড়
+📌 A calm, free home for Bangla & English stories, published chapter by chapter.
+🔗 https://golponeer.com
 
----
+### 🔹 Pocket Fishing
+📌 A cozy, relaxing browser fishing game. No install, no dependencies — just open and play.
+🔗 https://musabbirrahman.github.io/pocket-fishing/
 
-## 🧩 Featured Project  
+### 🔹 Dodge the Blocks
+📌 A browser game: dodge falling hazards across 11 biomes, each with its own weather and mechanics.
+🔗 https://musabbirrahman.github.io/dodge-the-blocks/
 
-### 🔹 React Fetch Data (Custom Hooks)  
-📌 A clean implementation of reusable custom hooks for API handling in React  
-
-🔗 https://github.com/musabbirrahman/react-fetchData-using-customHooks  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=musabbirrahman&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabbirrahman&layout=compact&theme=tokyonight" />
-</p>
+### 🔹 My Portfolio
+📌 My portfolio — GolpoNeer, a landing demo, and a bug-fix before/after demo.
+🔗 https://musabbirrahman.vercel.app
 
 ---
 
-## 🔥 Contribution Streak  
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=musabbirrahman&theme=tokyonight" />
-</p>
+HTML · CSS · JavaScript · React · Tailwind CSS · Vite · Supabase · Git · GitHub · VS Code
 
 ---
 
-## 🏆 Achievements  
+## 📜 Certificates
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musabbirrahman&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎯 Current Focus  
-
-- ⚛️ Advanced React (Custom Hooks, Performance)  
-- 🌐 API Integration & Data Handling  
-- 🧠 Problem Solving & Logic Building  
-- 🏗️ Real-world Projects  
+- **React** — Coursera · [Verify credential](https://coursera.org/share/f9ed374f6ba8ccea134879e0d94002dc)
+- **Web Development Fundamentals** — IBM SkillsBuild · [Verify credential](https://www.credly.com/badges/de1ccc87-723e-4f38-a7f1-ba2e8d0331ed)
+- **Full-Stack Bootcamp** — Programming Hero
 
 ---
 
-## 🌍 Future Vision  
+## 🎯 Current Focus
 
-- 🚀 Launch a Tech Startup  
-- 💼 Become a Skilled Software Engineer  
-- 🌏 Work globally & explore the world  
-
----
-
-## 🤝 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/musabbirrahman">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/musabbirrahman/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+- 🏗️ Growing GolpoNeer — new writers, new stories, better reading experience
+- ⚛️ Advanced React & API Integration
+- 🧠 Problem Solving & Logic Building
+- 🗄️ Learning Backend — Node, Express & Postgres
 
 ---
 
-## ⚡ Personal Motto  
+## 🌍 Future Vision
 
-> “Consistency beats talent when talent doesn’t stay consistent.” 🚀  
+- 🚀 Grow GolpoNeer into the home for Bangla web novels
+- 💼 Become a Skilled Software Engineer
+- 🌏 Work globally & explore the world
 
 ---
 
-<!-- 🔥 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer"/>
-</p>
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/musabbirrahman/
+- 🌐 Portfolio: https://musabbirrahman.vercel.app
+- 📖 GolpoNeer: https://golponeer.com
+
+---
+
+## ⚡ Personal Motto
+
+> "Consistency beats talent when talent doesn't stay consistent." 🚀
