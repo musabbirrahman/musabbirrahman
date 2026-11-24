@@ -1,14 +1,17 @@
 ## 👋 Hi, I'm Musabbir Rahman
 
-💻 Founder of GolpoNeer (golponeer.com) — a calm home for Bangla & English stories | ⚛️ Aspiring Web Developer | 🚀 Learning Backend
+💻 Founder of GolpoNeer (golponeer.com) — a calm home for Bangla & English stories | 🍰 Built Sweet Cravings — a full ordering site for a real dessert shop | ⚛️ Aspiring Web Developer | 🚀 Learning Backend
 
 ---
 
 ## 🚀 About Me
 
 - 🎯 Founder of **GolpoNeer** — a free, bilingual story platform, built with React, Vite & Supabase
-- 📖 37 stories live — source-checked public-domain classics and new writers, published chapter by chapter
+- 📖 38 stories live — source-checked public-domain classics and new writers, published chapter by chapter
 - 🆓 Read free, write free — no locked chapters, no app to install
+- 🍰 Built **Sweet Cravings** — full ordering website (menu, cart, checkout, tracking, bKash/Nagad) with Next.js + Cloudflare Workers + Turso
+- 🎙️ Building **Sunset** — an on-device, offline AI voice assistant (Qwen + Whisper, private repo)
+- 🌐 Building **GolpoTranslate** — tooling for translating English classics into Bangla (in progress)
 - ⚛️ Building with **React, Tailwind CSS & JavaScript**
 - 🧠 Strong believer in **learning by building**
 - 📈 Consistent growth with daily coding & GitHub activity
@@ -21,6 +24,17 @@
 ### 🔹 GolpoNeer — গল্পনীড়
 📌 A calm, free home for Bangla & English stories, published chapter by chapter.
 🔗 https://golponeer.com
+
+### 🔹 Sweet Cravings — সুইট ক্রেভিংস
+📌 A full ordering website for a real homemade dessert shop in Rajshahi — menu, cart, checkout without an account, order tracking, COD / bKash / Nagad.
+🔗 https://sweetcravingsrajshahi.com
+
+### 🔹 GolpoTranslate (in progress)
+📌 Tooling for translating English classics into natural Bangla — my own translation training data and workflow.
+🔗 https://github.com/musabbirrahman/GolpoTranslate
+
+### 🔹 Sunset (private repo)
+📌 An on-device, offline AI voice assistant — Qwen + Whisper + Pocket TTS, built for daily use on my own phone.
 
 ### 🔹 Pocket Fishing
 📌 A cozy, relaxing browser fishing game. No install, no dependencies — just open and play.
@@ -38,7 +52,7 @@
 
 ## 🛠️ Tech Stack
 
-HTML · CSS · JavaScript · React · Tailwind CSS · Vite · Supabase · Git · GitHub · VS Code
+TypeScript · HTML · CSS · JavaScript · React · Next.js · Tailwind CSS · Vite · Supabase · Turso · Cloudflare Workers · Gemini API · Git · GitHub · VS Code
 
 ---
 
@@ -56,6 +70,7 @@ HTML · CSS · JavaScript · React · Tailwind CSS · Vite · Supabase · Git ·
 - ⚛️ Advanced React & API Integration
 - 🧠 Problem Solving & Logic Building
 - 🗄️ Learning Backend — Node, Express & Postgres
+- 💼 Taking on small freelance builds
 
 ---
 
@@ -72,6 +87,7 @@ HTML · CSS · JavaScript · React · Tailwind CSS · Vite · Supabase · Git ·
 - 💼 LinkedIn: https://www.linkedin.com/in/musabbirrahman/
 - 🌐 Portfolio: https://musabbirrahman.vercel.app
 - 📖 GolpoNeer: https://golponeer.com
+- 🍰 Sweet Cravings: https://sweetcravingsrajshahi.com
 
 ---
 
